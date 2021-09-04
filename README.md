@@ -1,4 +1,4 @@
-# PAN AFRICAN KITCHEN ONLINE(PAKO)
+# Pan African Kitchen Online(PAKO)
 Pan African Kitchen Online, a front-end part of the system. It is developed as a prerequisite for MeritaTz Professional Training 
 <br>
 With the site, you can select a dish, get a price and add the dish to the cart.
