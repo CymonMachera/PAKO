@@ -9,5 +9,8 @@ The total price of the dishes added to cart is displayed for you
 <br>
 You can resert the cart if you want :smile:
 
-##  The site View 
+##  The initial site View 
 ![PAKO image](images/Pako.PNG)
+
+##  The site View when dishes are added to cart
+![PAKO image](images/pako-2.PNG)
